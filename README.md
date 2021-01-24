@@ -1,4 +1,2 @@
 # hello-world
-my first github repository
-
-Hello World.  I am making my first change to see how this commit thing works.
+This is Daryn following the tutorial in an attempt to understand by doing.
